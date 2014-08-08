@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:6
+-keep class net.snoone.touchpaint1.touchpaint1 { <init>(...); }
+
