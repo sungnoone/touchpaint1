@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C94F1D15-DCAA-43B7-B5B5-E50DA57A1E12</string>
+	<key>IDESourceControlProjectName</key>
+	<string>touchpaint1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6F6C680E-897B-46DB-AC34-094B8AA2865C</key>
+		<string>https://github.com/sungnoone/touchpaint1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/touchpaint1.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6F6C680E-897B-46DB-AC34-094B8AA2865C</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sungnoone/touchpaint1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6F6C680E-897B-46DB-AC34-094B8AA2865C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6F6C680E-897B-46DB-AC34-094B8AA2865C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>touchpaint1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
