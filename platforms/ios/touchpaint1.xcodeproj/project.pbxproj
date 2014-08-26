@@ -476,8 +476,8 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: YANG David (Z57N6HDSW5)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: YANG David (Z57N6HDSW5)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: HAN LIN PUBLISHING CO.,LTD.";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: HAN LIN PUBLISHING CO.,LTD.";
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -502,7 +502,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = touchpaint1;
-				PROVISIONING_PROFILE = "0c9c2746-14dd-4003-aadd-eb0cbbe6023c";
+				PROVISIONING_PROFILE = "35529561-a3b9-4d02-a5a0-5d11ca33669a";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -512,7 +512,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: YANG David (Z57N6HDSW5)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: HAN LIN PUBLISHING CO.,LTD.";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: YANG David (Z57N6HDSW5)";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -536,7 +536,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = touchpaint1;
-				PROVISIONING_PROFILE = "0c9c2746-14dd-4003-aadd-eb0cbbe6023c";
+				PROVISIONING_PROFILE = "35529561-a3b9-4d02-a5a0-5d11ca33669a";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -582,7 +582,7 @@
 					"\"$(BUILT_PRODUCTS_DIR)/libCordova.a\"",
 					"-ObjC",
 				);
-				PROVISIONING_PROFILE = "0c9c2746-14dd-4003-aadd-eb0cbbe6023c";
+				PROVISIONING_PROFILE = "35529561-a3b9-4d02-a5a0-5d11ca33669a";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = NO;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -630,7 +630,7 @@
 					"\"$(BUILT_PRODUCTS_DIR)/libCordova.a\"",
 					"-ObjC",
 				);
-				PROVISIONING_PROFILE = "0c9c2746-14dd-4003-aadd-eb0cbbe6023c";
+				PROVISIONING_PROFILE = "35529561-a3b9-4d02-a5a0-5d11ca33669a";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = NO;
 				TARGETED_DEVICE_FAMILY = "1,2";
